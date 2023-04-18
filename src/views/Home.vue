@@ -20,6 +20,7 @@ export default {
   methods: {
     saaa () {
       console.log(1354321)
+      console.log(1111111111)
     }
   }
 }
