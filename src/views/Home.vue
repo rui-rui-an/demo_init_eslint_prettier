@@ -19,6 +19,8 @@ export default {
   },
   methods: {
     saaa () {
+      const a = 'sadasdw'
+      console.log(a)
       console.log(1354321)
       console.log(1111111111)
     }
