@@ -23,6 +23,11 @@ export default {
       if (b === 1) {
         console.log(222)
       }
+      if (b === 'test') {
+        console.log('wqewqe')
+      } else {
+        console.log(222)
+      }
       const a = 'sadasdw'
       console.log(a)
       console.log(1354321)
