@@ -32,6 +32,9 @@ export default {
       console.log(a)
       console.log(1354321)
       console.log(1111111111)
+    },
+    aaa () {
+      console.log(54545)
     }
   }
 }
